@@ -9,9 +9,9 @@ pylint = "*"
 
 [packages]
 chatterbot = "*"
-chatterbot-corpus = "*"
 psycopg2 = "*"
 praw = "*"
+chatterbot-corpus = "*"
 
 [requires]
 python_version = "3.6"
